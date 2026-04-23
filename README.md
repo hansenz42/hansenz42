@@ -11,3 +11,6 @@ Personal Website: [assen.top](https://www.assen.top)
 - Thinking in fullstack development
 - AI
 - Other interesting hacking staff
+
+Projects:
+- Chromino: A Board game with online game play! https://chromino.assen.top
