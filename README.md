@@ -13,4 +13,6 @@ Personal Website: [assen.top](https://www.assen.top)
 - Other interesting hacking staff
 
 Projects:
-- Chromino: A Board game with online game play! https://chromino.assen.top
+- Chromino: A Board game with online game play! [demo](https://chromino.assen.top)
+- Miremo: An Agentic Knowledge Assistant [webpage](https://www.miremoapp.com)
+- Dota2 AI Coach: Give your steam ID to get advice for matches [demo](https://dota.assen.top)
