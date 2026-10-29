@@ -6,13 +6,11 @@ Fullstack Developer
 
 > Interested in AI, ML, Fullstack Development. Work for server-side devloping in 3 years, startup for 5 years, SaaS Platform
 
-Personal Website: [assen.top](https://www.assen.top)
+Personal Website: [assen.top](https://www.imassen.com)
 
 - Thinking in fullstack development
 - AI
 - Other interesting hacking stuff
 
 Projects:
-- 🎲 Chromino: A Board game with online game play! [demo](https://chromino.assen.top)
 - 📒 Miremo: An Agentic Knowledge Assistant [webpage](https://www.miremoapp.com)
-- 🎮 Dota2 AI Coach: Give your steam ID to get advice for matches [demo](https://dota.assen.top)
